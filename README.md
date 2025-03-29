@@ -44,8 +44,8 @@ Visit `http://127.0.0.1:5000` in your browser.
 
 ## Live Demo
 
-Hosted on [PythonAnywhere](https://yourusername.pythonanywhere.com)  
-Embedded via GitHub Pages at: `https://yourusername.github.io/daily.html`
+Hosted on [PythonAnywhere](https://TrevorBrowning.pythonanywhere.com)  
+Embedded via GitHub Pages at: `https://TrevorBrowning.github.io/daily.html`
 
 ---
 
